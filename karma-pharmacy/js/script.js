@@ -1,9 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     
-    // Set Image Sources
-    document.getElementById('about-img').src = 'assets/images/team.png';
-    document.getElementById('products-img').src = 'assets/images/consultation.png';
-
     // Sticky Navbar
     const navbar = document.getElementById('navbar');
     const scrollTopBtn = document.getElementById('scrollTop');
